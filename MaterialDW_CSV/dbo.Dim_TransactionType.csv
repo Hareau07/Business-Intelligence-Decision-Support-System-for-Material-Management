@@ -1,0 +1,4 @@
+﻿TransactionTypeKey,TypeCode,TypeName
+1,P,Purchase
+2,S,Sales
+3,W,Work Order

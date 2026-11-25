@@ -1,0 +1,39 @@
+﻿UoMKey,UnitMeasureCode,UnitMeasureName
+1,BTL,Bottle
+2,BOX,Boxes
+3,CAN,Canister
+4,CAR,Carton
+5,CS,Case
+6,C,Celsius
+7,CM,Centimeter
+8,CTN,Container
+9,CR,Crate
+10,CCM,Cubic centimeter
+11,CDM,Cubic decimeter
+12,FT3,Cubic foot
+13,M3,Cubic meter
+14,CBM,Cubic meters
+15,DM,Decimeter
+16,DZ,Dozen
+17,EA,Each
+18,GAL,Gallon
+19,G,Gram
+20,IN,Inch
+21,KG,Kilogram
+22,KGV,Kilogram/cubic meter
+23,KM,Kilometer
+24,KT,Kiloton
+25,L,Liter
+26,M,Meter
+27,MG,Milligram
+28,ML,Milliliter
+29,MM,Millimeter
+30,OZ,Ounces
+31,PAK,Pack
+32,PAL,Pallet
+33,PCT,Percentage
+34,PC,Piece
+35,PT,"Pint, US liquid"
+36,CM2,Square centimeter
+37,M2,Square meter
+38,LB,US pound

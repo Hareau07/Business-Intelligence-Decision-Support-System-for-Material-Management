@@ -1,0 +1,5 @@
+﻿POStatusKey,StatusCode,StatusName
+1,1,Pending
+2,2,Approved
+3,3,Rejected
+4,4,Complete

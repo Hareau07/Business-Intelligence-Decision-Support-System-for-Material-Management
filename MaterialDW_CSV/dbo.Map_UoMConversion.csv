@@ -1,0 +1,3 @@
+﻿FromUoM,ToUoM,Factor,Source
+DZ,EA,12.0,Design assumption: dozen = 12 each
+GAL,OZ,128.0,Design assumption: US gallon to US fluid ounces; validate material unit semantics before DSS use

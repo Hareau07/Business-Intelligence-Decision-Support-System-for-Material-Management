@@ -1,0 +1,15 @@
+﻿LocationKey,LocationID,LocationName,CostRate,Availability
+1,1,Tool Crib,0.0,0.0
+2,2,Sheet Metal Racks,0.0,0.0
+3,3,Paint Shop,0.0,0.0
+4,4,Paint Storage,0.0,0.0
+5,5,Metal Storage,0.0,0.0
+6,6,Miscellaneous Storage,0.0,0.0
+7,7,Finished Goods Storage,0.0,0.0
+8,10,Frame Forming,22.5,96.0
+9,20,Frame Welding,25.0,108.0
+10,30,Debur and Polish,14.5,120.0
+11,40,Paint,15.75,120.0
+12,45,Specialized Paint,18.0,80.0
+13,50,Subassembly,12.25,120.0
+14,60,Final Assembly,12.25,120.0

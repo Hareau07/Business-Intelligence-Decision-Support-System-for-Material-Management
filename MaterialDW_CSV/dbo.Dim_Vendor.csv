@@ -1,0 +1,105 @@
+﻿VendorKey,BusinessEntityID,VendorName,AccountNumber,CreditRating,PreferredVendorStatus,ActiveFlag,HasPurchaseActivity
+1,1492,Australia Bike Retailer,AUSTRALI0001,1,True,True,True
+2,1494,Allenson Cycles,ALLENSON0001,2,True,True,True
+3,1496,Advanced Bicycles,ADVANCED0001,1,True,True,True
+4,1498,"Trikes, Inc.",TRIKES0001,2,True,True,True
+5,1500,Morgan Bike Accessories,MORGANB0001,1,True,True,True
+6,1502,Cycling Master,CYCLING0001,1,True,True,False
+7,1504,Chicago Rent-All,CHICAGO0002,2,True,True,True
+8,1506,Greenwood Athletic Company,GREENWOO0001,1,True,True,True
+9,1508,"Compete Enterprises, Inc",COMPETE0001,1,True,True,True
+10,1510,International,INTERNAT0001,1,True,True,True
+11,1512,Light Speed,LIGHTSP0001,1,True,True,False
+12,1514,Training Systems,TRAINING0001,1,True,True,True
+13,1516,Gardner Touring Cycles,GARDNER0001,1,False,False,True
+14,1518,International Trek Center,INTERNAT0004,1,True,True,True
+15,1520,G & K Bicycle Corp.,G&KBI0001,1,True,True,True
+16,1522,First National Sport Co.,FIRSTNA0001,1,True,True,True
+17,1524,Recreation Place,RECREATI0001,4,True,True,False
+18,1526,International Bicycles,INTERNAT0002,1,True,True,True
+19,1528,Image Makers Bike Center,IMAGEMA0001,1,True,True,False
+20,1530,Comfort Road Bicycles,COMFORT0001,1,True,True,True
+21,1532,Knopfler Cycles,KNOPFLER0001,1,True,True,False
+22,1534,Ready Rentals,READYRE0001,1,True,True,True
+23,1536,Cruger Bike Company,CRUGERB0001,1,True,True,True
+24,1538,Vista Road Bikes,VISTARO0001,3,True,True,True
+25,1540,Bergeron Off-Roads,BERGERON0001,1,True,True,True
+26,1542,Hill's Bicycle Service,HILLSBI0001,1,True,True,True
+27,1544,Circuit Cycles,CIRCUIT0001,1,False,False,True
+28,1546,Green Lake Bike Company,GREENLA0001,1,True,True,True
+29,1548,Consumer Cycles,CONSUMER0001,3,True,True,True
+30,1550,Merit Bikes,MERITBI0001,5,True,True,False
+31,1552,Sports House,SPORTSH0001,1,True,True,False
+32,1554,WestAmerica Bicycle Co.,WESTAMER0001,1,False,True,True
+33,1556,West Junction Cycles,WESTJUN0001,1,True,True,True
+34,1558,Marsh,MARSH0001,1,True,True,False
+35,1560,Capital Road Cycles,CAPITAL0001,1,True,True,True
+36,1562,Norstan Bike Hut,NORSTAN0001,1,True,True,True
+37,1564,Illinois Trek & Clothing,ILLINOIS0001,1,True,True,False
+38,1566,Burnett Road Warriors,BURNETT0001,1,True,True,True
+39,1568,"Custom Frames, Inc.",CUSTOMF0001,2,True,True,True
+40,1570,First Rate Bicycles,FIRSTRA0001,1,True,True,True
+41,1572,National Bike Association,NATIONAL0001,1,True,True,True
+42,1574,Jeff's Sporting Goods,JEFFSSP0001,1,True,True,True
+43,1576,Superior Bicycles,SUPERIOR0001,1,True,True,True
+44,1578,"Vision Cycles, Inc.",VISIONC0001,1,False,True,True
+45,1580,"Litware, Inc.",LITWARE0001,1,True,True,True
+46,1582,Inner City Bikes,INNERCI0001,3,True,True,True
+47,1584,Trey Research,TREYRE0001,3,True,True,True
+48,1586,Mitchell Sports,MITCHELL0001,1,True,True,True
+49,1588,Signature Cycles,SIGNATUR0001,2,True,True,True
+50,1590,SUPERSALES INC.,SUPERSAL0001,1,True,True,True
+51,1592,Lindell,LINDELL0001,1,True,True,True
+52,1594,Fitness Association,FITNESS0001,1,True,True,True
+53,1596,A. Datum Corporation,ADATUM0001,1,True,True,False
+54,1598,Continental Pro Cycles,CONTINEN0001,3,True,True,True
+55,1600,Federal Sport,FEDERAL0001,3,True,True,True
+56,1602,Beaumont Bikes,BEAUMONT0001,1,False,True,True
+57,1604,Bike Satellite Inc.,BIKESAT0001,1,False,True,True
+58,1606,Northwind Traders,NORTHW0001,1,True,True,False
+59,1608,Sport Playground,SPORTPL0001,1,True,True,True
+60,1610,Hybrid Bicycle Center,HYBRIDB0001,1,True,True,True
+61,1612,"Midwest Sport, Inc.",MIDWEST0001,1,True,True,True
+62,1614,"Reliance Fitness, Inc.",RELIANCE0001,2,False,False,True
+63,1616,Aurora Bike Center,AURORAB0001,1,True,True,True
+64,1618,Metro Sport Equipment,METROSP0001,1,True,True,True
+65,1620,Lakewood Bicycle,LAKEWOOD0001,1,True,True,True
+66,1622,Speed Corporation,SPEEDCO0001,1,True,True,True
+67,1624,Competition Bike Training Systems,COMPETIT0001,1,True,True,True
+68,1626,Hill Bicycle Center,HILLBIC0001,1,True,True,True
+69,1628,Bicycle Specialists,BICYCLE0001,1,True,True,True
+70,1630,Indiana Bicycle Center,INDIANA0001,1,True,True,False
+71,1632,Sport Fan Co.,SPORTFA0001,1,True,True,True
+72,1634,GMA Ski & Bike,GMASKI0001,1,True,True,False
+73,1636,Integrated Sport Products,INTEGRAT0001,1,True,True,True
+74,1638,Inline Accessories,INLINEA0001,1,True,True,True
+75,1640,Legend Cycles,LEGENDC0001,1,True,True,False
+76,1642,Electronic Bike Co.,ELECTRON0001,1,True,True,False
+77,1644,International Sport Assoc.,INTERNAT0003,1,True,True,True
+78,1646,Electronic Bike Repair & Supplies,ELECTRON0002,1,True,True,True
+79,1648,Wide World Importers,WIDEWOR0001,2,True,True,True
+80,1650,American Bicycles and Wheels,AMERICAN0001,1,True,True,True
+81,1652,Victory Bikes,VICTORY0001,5,True,True,True
+82,1654,American Bikes,AMERICAN0002,1,True,True,True
+83,1656,Mountain Works,MOUNTAIN0001,1,False,True,True
+84,1658,Crowley Sport,CROWLEY0001,1,True,True,True
+85,1660,Magic Cycles,MAGICCY0001,1,True,True,False
+86,1662,Northern Bike Travel,NORTHERN0001,3,True,True,True
+87,1664,Anderson's Custom Bikes,ANDERSON0001,1,True,True,True
+88,1666,Leaf River Terrain,LEAFRIV0001,1,False,True,True
+89,1668,Touring Equipment Center,TOURING0001,1,True,True,False
+90,1670,Holiday Skate & Cycle,HOLIDAY0001,1,True,True,False
+91,1672,Expert Bike Co,EXPERTB0001,1,True,True,True
+92,1674,Varsity Sport Co.,VARSITY0001,1,True,True,True
+93,1676,Team Athletic Co.,TEAMATH0001,1,True,True,True
+94,1678,"Proseware, Inc.",PROSE0001,4,False,False,True
+95,1680,Jackson Authority,JACKSON0001,1,True,True,True
+96,1682,"Premier Sport, Inc.",PREMIER0001,1,True,True,True
+97,1684,Professional Athletic Consultants,PROFESSI0001,1,True,True,True
+98,1686,Pro Sport Industries,PROSPOR0001,1,False,True,True
+99,1688,Wood Fitness,WOODFIT0001,1,True,True,True
+100,1690,Bloomington Multisport,BLOOMING0001,1,True,True,True
+101,1692,Carlson Specialties,CARLSON0001,2,True,True,True
+102,1694,"Compete, Inc.",COMPETE0002,1,True,True,True
+103,1696,Chicago City Saddles,CHICAGO0001,1,True,True,True
+104,1698,Business Equipment Center,BUSINESS0001,2,True,True,True
